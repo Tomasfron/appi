@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: auto;
+}
+
+.api{
+  width: 300px;
+  height: 70px;
+  border-radius: 5px;
+}
